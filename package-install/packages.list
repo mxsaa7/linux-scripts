@@ -1,11 +1,15 @@
 wget
 dnf-plugins-core
-vscode
 php
+php-cli
+php-common
+php-xml
+php-pdo
+php-pdo_mysql
+php-mysqlnd
 git 
 httpd
 mysql
-mysql-community-server
 java
 docker
 docker-compose
