@@ -1,0 +1,13 @@
+wget
+dnf-plugins-core
+vscode
+php
+git 
+httpd
+mysql
+mysql-community-server
+java
+docker
+docker-compose
+gnome-tweaks
+
